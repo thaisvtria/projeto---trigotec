@@ -9,7 +9,7 @@ e radianos, além de calcular o seno, cosseno, tangente e teorema de Pitágoras.
 
 ## Tecnologias Utilizadas
 * Python
-* Visual Studio
+* Visual Studio Code
 * GitHub
 
 ## Membros do grupo
