@@ -1,7 +1,7 @@
 import math
 
 def teorema_pitagoras(cateto1, cateto2):
-    return math.sqrt(cateto1*2 + cateto2*2)
+    return math.sqrt(cateto1**2 + cateto2**2)
 
 def seno(angulo_graus):
     angulo_radianos = math.radians(angulo_graus)
